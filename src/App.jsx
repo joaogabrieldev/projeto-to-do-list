@@ -1,23 +1,12 @@
-import { useState } from "react";
+import TaskForm from "./components/task-form";
+import AddTask from "./components/AddTask";
 
 function App() {
-  // State (Estados) -> Variável que é capaz de atualizar o componente
-
-  const [message, setMessage] = useState(
-    "Olá, mundo" /* Valor Inicial da Variável */
-  );
-  // useState é um HOOK -> Função especial que permite o uso funcionalidades especiais que o React proporciona
-
   return (
     <div>
-      <h1> {message}</h1>
-      <button
-        onClick={() => {
-          setMessage("Outra Mensagem");
-        }}
-      >
-        Mudar Mensagem
-      </button>
+      <h1>Gerenciador de Tarefas</h1>
+      <AddTask />
+      <TaskForm />
     </div>
   );
 }
