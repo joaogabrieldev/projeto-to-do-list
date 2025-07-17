@@ -27,3 +27,7 @@ const [message, setMessage] = useState(
 }
 export default App;
 ```
+
+## Props
+
+- Passar um valor para um componente
