@@ -1,5 +1,6 @@
 ## Exemplo de Estrutura React
 
+```bash
 import { useState } from "react";
 
 function App() {
@@ -10,7 +11,7 @@ const [message, setMessage] = useState(
 );
 // useState é um HOOK -> Função especial que permite o uso funcionalidades especiais que o React proporciona
 
-```bash
+
   return (
     <div>
       <h1> {message}</h1>
