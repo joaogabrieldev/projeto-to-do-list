@@ -7,7 +7,7 @@ function App() {
 // State (Estados) -> Variável que é capaz de atualizar o componente
 
 const [message, setMessage] = useState(
-"Olá, mundo" /_ Valor Inicial da Variável _/
+"Olá, mundo" -> Valor Inicial da Variável
 );
 // useState é um HOOK -> Função especial que permite o uso funcionalidades especiais que o React proporciona
 
