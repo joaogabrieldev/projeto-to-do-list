@@ -1,6 +1,6 @@
 import { useNavigate, useSearchParams } from "react-router-dom";
 import { CircleChevronLeft } from "lucide-react";
-import Title from "../components/title";
+import Title from "../components/Title";
 
 function TaskPage() {
   const navigate = useNavigate();
