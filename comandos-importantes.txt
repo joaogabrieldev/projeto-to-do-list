@@ -1,2 +1,4 @@
 npm install vite@{numero da versao desejada} .
 -> Código exatamente assim com exceção do codigo entre chaves
+
+npm run dev -> Para rodar o projeto

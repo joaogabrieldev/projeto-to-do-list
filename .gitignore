@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Meus Arquivos
+anotações.md 
+bibliotecas-utilizadas.md
+teoria.md
+comandos-importantes.txt
