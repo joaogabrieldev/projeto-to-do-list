@@ -1,3 +1,8 @@
+anotações.md 
+bibliotecas-utilizadas.md
+teoria.md
+comandos-importantes.txt
+
 # Logs
 logs
 *.log
@@ -23,8 +28,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Meus Arquivos
-anotações.md 
-bibliotecas-utilizadas.md
-teoria.md
-comandos-importantes.txt
