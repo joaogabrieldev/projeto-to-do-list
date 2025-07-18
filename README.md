@@ -1,6 +1,12 @@
 # 📋 Gerenciador de Tarefas - React
 
-Um aplicativo de gerenciamento de tarefas desenvolvido com React, oferecendo uma interface intuitiva para criar, gerenciar e acompanhar suas tarefas diárias.
+**Sobre o Projeto:** Um aplicativo de gerenciamento de tarefas desenvolvido com React, oferecendo uma interface intuitiva para criar, gerenciar e acompanhar suas tarefas diárias.
+
+## 🌟 **Versão Ativa**
+
+**Clique aqui para testar:** [https://projeto-gerenciador-de-tarefas-five.vercel.app/](https://projeto-gerenciador-de-tarefas-five.vercel.app/)
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
