@@ -12,7 +12,7 @@ function TaskPage() {
     <div className="h-screen w-screen justify-center bg-slate-500 p-6 space-y-4">
       <div className="flex flex-row justify-center  content-center ">
         <CircleChevronLeft
-          className="text-white mt-1.5 text-3xl cursor-pointer"
+          className="text-white mt-1.5 mr-2 text-3xl cursor-pointer"
           onClick={() => {
             navigate("/");
           }}

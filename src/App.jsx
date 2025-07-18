@@ -4,7 +4,6 @@ import Tasks from "./components/Tasks";
 import { v4 } from "uuid";
 import { data } from "react-router-dom";
 import Title from "./components/Title";
-import { Task } from "./Teste";
 
 // Componente Pai
 function App() {
