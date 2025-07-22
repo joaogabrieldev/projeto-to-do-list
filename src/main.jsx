@@ -4,6 +4,7 @@ import App from "./App.jsx";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import TaskPage from "./pages/TaskPage.jsx";
+import TaskPage2 from "./pages/TaskPage2.jsx";
 
 const router = createBrowserRouter([
   // 1º Objeto -> O que vai ser mostrado na página inicial
