@@ -23,8 +23,17 @@ dist-ssr
 *.sln
 *.sw?
 
+<<<<<<< HEAD
 ## My texts
 
 /anotacoes
+=======
+##
+
+anotações.md 
+bibliotecas-utilizadas.md
+teoria.md
+comandos-importantes.txt
+>>>>>>> 3e71bcc1bac880da7c800f370a67c0f2030e60af
 
 
