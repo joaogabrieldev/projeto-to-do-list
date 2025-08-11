@@ -4,7 +4,7 @@
 
 ## 🌟 **Versão Ativa**
 
-**Clique aqui para testar:** [https://projeto-gerenciador-de-tarefas-five.vercel.app/](https://projeto-gerenciador-de-tarefas-five.vercel.app/)
+**Clique aqui para testar:** [(https://projeto-to-do-list-seven.vercel.app/)](https://projeto-to-do-list-seven.vercel.app)
 
 ---
 
